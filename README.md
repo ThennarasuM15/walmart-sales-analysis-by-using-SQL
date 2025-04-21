@@ -8,7 +8,7 @@ This project dives into transactional data from Walmart stores across cities usi
 ## 🔧 How to View This Project
 
 1. 📄 **Download the Report**  
-   Access the full PDF presentation from the repo: [`walmart_sales_analysis.pdf`](./walmart_sales_analysis.pdf)
+   Access the full PDF presentation from the repo: [`walmart_sales_analysis.pdf`]([./walmart_sales_analysis.pdf](https://github.com/ThennarasuM15/walmart-sales-analysis-by-using-SQL/blob/main/Output/walmart%20sales%20analysis%20project%20using%20SQL.pdf))
 
 2. 🧠 **Understand the Business Questions**  
    Read through the 10 business questions and explore how SQL was used to solve each.
